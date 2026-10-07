@@ -1,6 +1,6 @@
 // 오늘 뭐 입지 - 오프라인 실행용 서비스 워커
 // 화면 파일을 바꿨다면 아래 VERSION 숫자를 올려 주세요 (휴대폰에 새 버전이 반영됨)
-const VERSION = "v1";
+const VERSION = "v4";
 const APP = "app-" + VERSION, LIB = "lib-" + VERSION;
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
